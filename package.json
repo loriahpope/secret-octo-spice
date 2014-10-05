@@ -1,0 +1,28 @@
+{
+  "name": "HW3",
+  "version": "1.0.0",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nyu-csci-ua-0480-002-fall-2014/llp260-homework03-http-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0480-002-fall-2014/llp260-homework03-http-express/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0480-002-fall-2014/llp260-homework03-http-express",
+  "dependencies": {
+    "express": "^4.9.5",
+    "jshint": "^2.5.6",
+    "request": "^2.44.0"
+  },
+  "devDependencies": {}
+}
