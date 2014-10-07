@@ -1,4 +1,2 @@
-node_modules
 .DS_Store
-express.js
-server.js
+node_modules
